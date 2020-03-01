@@ -36,7 +36,7 @@ static void Main(string[] args)
 
 Dan krijgen we volgende, terechte, foutmelding:
 
-![](../../.gitbook/assets/outref1.png)
+![](../../.gitbook/assets/outref1%20%281%29.png)
 
 Door nu het out keyword te gebruiken geven we expliciet aan dat we beseffen dat de parameter in kwestie pas binnen de methode een waarde zal toegekend krijgen.
 

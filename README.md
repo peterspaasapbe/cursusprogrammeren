@@ -23,9 +23,9 @@ PS Besef dat goed kunnen programmeren enkel kan geleerd worden indien je ook eff
 ![Licenicon](.gitbook/assets/ccat.png)  
 ![Licenicon](.gitbook/assets/ccnc.png)
 
-Licensed under CC-BY-NC 4.0 as shown [here](LICENSE.MD).
+Licensed under CC-BY-NC 4.0 as shown [here](https://github.com/v-nys/cursusprogrammeren/tree/d6298900715bd2c0b8e44750d001c6744d6cc949/LICENSE.MD).
 
-This is a human-readable summary of \(and not a substitute for\) the [license](LICENSE.MD).
+This is a human-readable summary of \(and not a substitute for\) the [license](https://github.com/v-nys/cursusprogrammeren/tree/d6298900715bd2c0b8e44750d001c6744d6cc949/LICENSE.MD).
 
 ### You are free to
 
@@ -41,3 +41,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 **NonCommercial** : You may not use the material for commercial purposes.
 
 **No additional restrictions** : You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+

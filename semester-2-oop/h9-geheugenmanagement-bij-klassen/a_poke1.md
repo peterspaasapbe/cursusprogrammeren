@@ -1,4 +1,4 @@
-# Labo-oefeningen
+# Oefeningen
 
 We gaan een programma schrijven dat ons toelaat enkele basis-eigenschappen van specifieke Pokémon te berekenen terwijl ze levellen. Nadruk van deze oefening is het juist gebruiken van properties. Bekijk de cheat sheet bij twijfel.
 
