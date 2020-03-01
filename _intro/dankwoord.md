@@ -1,1 +1,0 @@
-Deze cursus is een fork van [die van de richting toegepaste informatica](apwt.gitbook.io). We zijn Tim Dams en al zijn co-auteurs dank verschuldigd voor de stevige basis. Je mag veronderstellen dat alles Tims werk is, wij hebben vooral de vorm van de oefeningen aangepast voor een meer beroepsgerichte opleiding.

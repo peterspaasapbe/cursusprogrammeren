@@ -2,7 +2,7 @@
 
 Jagged arrays \(letterlijk _gekartelde arrays_\) zijn arrays van arrays maar van verschillende lengte. In tegenstelling tot de eerdere meer-dimensionale arrays moeten de interne arrays steeds dezelfde lengte hebben, bijvoorbeld 3 bij 2 bij 4. Bij jagged arrays hoeft dat dus niet:
 
-![jagged array](../../.gitbook/assets/jagged.png)
+![jagged array](../../.gitbook/assets/jagged%20%281%29.png)
 
 ## Jagged arrays aanmaken
 
@@ -29,5 +29,5 @@ Zoals je kan zien moeten de interne arrays dus niet de zelfde grootte hebben.
 
 ## Indexering
 
-De indexering blijft dezelfde, uiteraard moet je er wel rekening mee houden dat niet eender welke index binnen een bepaalde sub-array zal werken. ![indexering bij jagged arrays](../../.gitbook/assets/jagged2.png)
+De indexering blijft dezelfde, uiteraard moet je er wel rekening mee houden dat niet eender welke index binnen een bepaalde sub-array zal werken. ![indexering bij jagged arrays](../../.gitbook/assets/jagged2%20%281%29.png)
 
